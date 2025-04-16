@@ -1,0 +1,7 @@
+[wsl2]
+memory = 120GB
+# pageReporting = false
+kernelCommandLine = sysctl.net.ipv4.ip_unprivileged_port_start=\"80\", sysctl.fs.inotify.max_user_instances=\"512\"
+[experimental]
+sparseVhd = true
+autoMemoryReclaim = gradual
