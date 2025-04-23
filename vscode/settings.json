@@ -1,0 +1,191 @@
+{
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[dockercompose]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[svelte]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[svg]": {
+    "editor.defaultFormatter": "jock.svg"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "Vue.volar"
+  },
+  "[yaml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cSpell.diagnosticLevel": "Hint",
+  "chat.commandCenter.enabled": false,
+  "codeium.aggressiveShutdown": true,
+  "codeium.apiServerUrl": "https://codeium.gc1.myngc.com/_route/api_server",
+  "codeium.enableConfig": {
+    "*": true,
+    "helm": true,
+    "log": true,
+    "markdown": true,
+    "plaintext": true,
+    "properties": true,
+    "xml": true
+  },
+  "codeiumEnterprise.extensionBaseUrl": "https://codeium.gc1.myngc.com",
+  "codeiumEnterprise.portalUrl": "https://codeium.gc1.myngc.com",
+  "debug.onTaskErrors": "showErrors",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "docker.containers.groupBy": "State",
+  "docker.containers.label": "ContainerName",
+  "docker.containers.sortBy": "Label",
+  "editor.accessibilitySupport": "off",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.fontFamily": "'Hack Nerd Font, Regular', 'Hack Nerd Font', 'Hack NF', 'Hack Regular', 'Hack', Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontSize": 14,
+  "editor.gotoLocation.multipleDefinitions": "goto",
+  "editor.inlayHints.enabled": "on",
+  "explorer.confirmDragAndDrop": false,
+  "extensions.autoCheckUpdates": true,
+  "extensions.autoUpdate": true,
+  "files.associations": {
+    "*.groovy": "groovy"
+  },
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "gitlens.ai.experimental.generateCommitMessage.enabled": false,
+  "gitlens.graph.issues.enabled": false,
+  "gitlens.graph.sidebar.enabled": false,
+  "gitlens.graph.statusBar.enabled": false,
+  "gitlens.hovers.enabled": false,
+  "gitlens.integrations.enabled": false,
+  "gitlens.statusBar.enabled": false,
+  "gitlens.telemetry.enabled": false,
+  "hediet.vscode-drawio.resizeImages": null,
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.jdt.ls.vmargs": "-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -Xlog:disable",
+  "java.maven.downloadSources": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "nightwatch.quickSettings.parallels": 16,
+  "peacock.affectActivityBar": false,
+  "peacock.affectDebuggingStatusBar": false,
+  "peacock.affectEditorGroupBorder": false,
+  "peacock.affectPanelBorder": false,
+  "peacock.affectSashHover": false,
+  "peacock.affectSideBarBorder": false,
+  "peacock.affectStatusAndTitleBorders": false,
+  "peacock.affectStatusBar": false,
+  "peacock.affectTabActiveBorder": false,
+  "peacock.affectTitleBar": true,
+  "peacock.showColorInStatusBar": false,
+  "powermode.combo.location": "statusbar",
+  "powermode.combo.timeout": 20,
+  "powermode.combo.timerEnabled": "hide",
+  "powermode.enabled": true,
+  "powermode.explosions.offset": 1,
+  "powermode.presets": "flames",
+  "powermode.shake.enabled": false,
+  "projectManager.git.baseFolders": [
+    "/home/rob/workspace"
+  ],
+  "redhat.telemetry.enabled": false,
+  "remote.SSH.localServerDownload": "auto",
+  "remote.SSH.remotePlatform": {
+    "bender": "linux",
+    "bender.ngc.gccsj.io": "linux"
+  },
+  "remote.autoForwardPortsSource": "hybrid",
+  "remote.restoreForwardedPorts": true,
+  "rest-client.enableTelemetry": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "sqltools.connections": [
+    {
+      "askForPassword": true,
+      "driver": "Cassandra",
+      "name": "polly",
+      "port": 9042,
+      "previewLimit": 50,
+      "server": "localhost"
+    }
+  ],
+  "telemetry.telemetryLevel": "off",
+  "terminal.integrated.env.linux": {},
+  "terminal.integrated.env.osx": {
+    "FIG_NEW_SESSION": "1"
+  },
+  "terminal.integrated.env.windows": {},
+  "terminal.integrated.fontFamily": "'Hack Nerd Font, Regular', 'Hack Nerd Font', 'Hack NF', 'Hack Regular', 'Hack', Menlo, Monaco, 'Courier New', monospace",
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.scrollback": 5000,
+  "terminal.integrated.tabs.enabled": true,
+  "terminal.integrated.tabs.hideCondition": "never",
+  "terminal.integrated.tabs.location": "left",
+  "terminal.integrated.tabs.showActiveTerminal": "always",
+  "vs-kubernetes": {
+    "vs-kubernetes.crd-code-completion": "disabled"
+  },
+  "vscode-kubernetes.log-viewer.destination": "Webview",
+  "vscode-kubernetes.log-viewer.follow": false,
+  "vscode-kubernetes.log-viewer.since": -1,
+  "vscode-kubernetes.log-viewer.tail": -1,
+  "vscode-kubernetes.log-viewer.timestamp": false,
+  "vscode-kubernetes.log-viewer.wrap": false,
+  "window.menuBarVisibility": "compact",
+  "window.newWindowProfile": "Default",
+  "window.restoreWindows": "none",
+  "window.titleBarStyle": "custom",
+  "window.zoomLevel": 1,
+  "workbench.colorCustomizations": {
+    "terminal.ansiBlack": "#01060E",
+    "terminal.ansiBlue": "#53BDFA",
+    "terminal.ansiBrightBlack": "#686868",
+    "terminal.ansiBrightBlue": "#59C2FF",
+    "terminal.ansiBrightCyan": "#95E6CB",
+    "terminal.ansiBrightGreen": "#C2D94C",
+    "terminal.ansiBrightPurple": "#FFEE99",
+    "terminal.ansiBrightRed": "#F07178",
+    "terminal.ansiBrightWhite": "#FFFFFF",
+    "terminal.ansiBrightYellow": "#FFB454",
+    "terminal.ansiCyan": "#90E1C6",
+    "terminal.ansiGreen": "#91B362",
+    "terminal.ansiPurple": "#FAE994",
+    "terminal.ansiRed": "#EA6C73",
+    "terminal.ansiWhite": "#C7C7C7",
+    "terminal.ansiYellow": "#F9AF4F",
+    "terminal.background": "#0A0E14",
+    "terminal.cursorColor": "#FFFFFF",
+    "terminal.foreground": "#B3B1AD",
+    "terminal.name": "Ayu Dark",
+    "terminal.selectionBackground": "#FFFFFF"
+  },
+  "workbench.colorTheme": "GitHub Dark Default",
+  "workbench.editor.restoreViewState": false,
+  "workbench.editor.wrapTabs": false,
+  "workbench.iconTheme": "vscode-icontheme-nomo-dark-macos",
+  "workbench.startupEditor": "none",
+  "workbench.tree.indent": 12,
+  "zenMode.restore": false
+}
